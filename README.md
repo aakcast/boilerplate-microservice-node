@@ -1,2 +1,2 @@
 # microservice-boilerplate-node
-Node.js boilerplate project for creating a new microservice more faster.
+Node.js boilerplate project for creating a new microservice faster.
